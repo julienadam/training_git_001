@@ -2,3 +2,6 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("Very important line !");
+
+Console.WriteLine("Hello, Tours!");
+Console.ReadLine();
