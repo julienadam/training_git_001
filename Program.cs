@@ -1,7 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, world!");
 
+// This line does everything !
 Console.WriteLine("Very important line !");
 
-Console.WriteLine("Hello, Tours!");
+// Reading line
+Console.WriteLine("Hello,  Tours!");
 Console.ReadLine();
+
